@@ -11,7 +11,14 @@ export default {
 	footer: true,
 	footerText: (
 		<p>
-			OSTI powered by <a href="https://github.com/">Nextra</a>
+			OSTI created by{" "}
+			<a href="https://github.com/MaciejWiatr" target="_blank">
+				Maciej Wiatr
+			</a>{" "}
+			<br /> powered by{" "}
+			<a href="https://github.com/shuding/nextra/" target="_blank">
+				Nextra
+			</a>
 		</p>
 	),
 	footerEditLink: `Edit this page on GitHub`,
