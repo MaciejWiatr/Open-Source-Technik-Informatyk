@@ -3,29 +3,15 @@
 Open source technik informatyk to projekt zainspirowany przez [Open Source CS Degree](https://github.com/ForrestKnight/open-source-cs),
 ma on na celu zebranie darmowych materiałów umożliwiających zdobycie wiedzy na poziomie kwalifikacji Technik Informatyk
 
-## Materiały
+## Wszystkie materiały znajdziesz na stronie projektu:
+### 🔗[osti.mwiatr.live](https://osti.mwiatr.live/)
+lub w [kodzie źródłowym](https://github.com/MaciejWiatr/Open-Source-Technik-Informatyk/tree/master/osti-website)
 
-### Sieci komputerowe
+## Zachęcam do wspólnego rozwijania tego projektu
+Znasz dobre źródło do nauki? Utwórz nowy issue gdzie je linkujesz lub napisz do mnie bezpośrednio a postaram się dodać je jak najszybciej.
+
+Jeżeli jesteś webdeveloperem zachęcam również do rozwoju samej witryny 😀
 
 
-| Nazwa                                                                | Długość       | Zakres                                            | Link                                                                             |
-| ---------------------------------------------------------------------- | ------------------ | --------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| Sieci komputerowe E13 E15 E16 EE08                                   | 4 godziny 45 min | Sieci komputerowe - całość                     | [Link](https://www.youtube.com/playlist?list=PLOYHgt8dIdoz2fyn0gv4fs2t4tayalsh3) |
-| Adresowanie IP v4. Budowa adresów, obliczenia, podział na podsieci | 52 min           | Adresowanie IPv4, dzielenie sieci na podsieci itp | [Link](https://www.youtube.com/watch?v=t3IceGlTjig)                              |
-|                                                                      |                  |                                                   |                                                                                  |
-|                                                                      |                  |                                                   |                                                                                  |
+> Projekt OSTI jest w 100% non profit i nigdy nie będzie prowadzony w celach zarobkowych. Pełne prawa do materiałów do których odnośniki znajdują sie na stronie posiadają ich autorzy, jeżeli chciałbyś usunąć ze strony swoją pracę skontaktuj się ze mną.
 
-### Urządzenia techniki komputerowej
-
-### Systemy operacyjne
-
-### Aplikacje klienckie (JavaScript)
-
-### Aplikacje Serwerowe
-
-### Inne
-
-## Twój wkład w projekt OSTI
-
-Jeżeli uważasz że jakiegoś materiału brakuje na liście i powinien zostać do niej dodany zachęcam cie do
-utworzenia nowego Issues'a lub pull requesta z informacją na temat tego materiału
